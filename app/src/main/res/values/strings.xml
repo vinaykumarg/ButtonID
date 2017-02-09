@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ButtonID</string>
+    <string name="left_button">LEFT</string>
+    <string name="right_button">RIGHT</string>
+    <string name="bottom_left_button">BOTTOM LEFT</string>
+    <string name="bottom_right_button">BOTTOM RIGHT</string>
+    <string name="left">Top Left button has been pressed</string>
+    <string name="right">Top Right button has been pressed</string>
+    <string name="bottomRight">Bottom Right button has been pressed</string>
+    <string name="bottomLeft">Bottom Left button has been pressed</string>
+</resources>
